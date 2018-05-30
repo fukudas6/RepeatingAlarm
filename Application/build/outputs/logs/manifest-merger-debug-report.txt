@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d22993975b63a6054972617f7d238e67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\f3fea4be525c1cf38dec9034724f7dd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\573c069d3a3a957bb668f681b2cbe20e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b0f93c9f84506773035e15827ef49c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\354301f5bc2733ef9c59998017775472\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce1e84adac3bf6a2458ba7dafdd9822c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f2b6da5e15180e41af49b496e97cc06b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\186b2a42997dcea6b4136cec0e5afe5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e89b018a2ee391967e79e3b5b31928de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3cf44dbb4cc20af2c0d714f3db2962d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\419ee5da1de36552d5cc979c95c35aa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\62cb1bab53826532b5c82ab8a3e3cef6\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:24:5-37:19
+	android:label
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.repeatingalarm.MainActivity
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:30:19-51
+	android:uiOptions
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:31:19-63
+	android:name
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d22993975b63a6054972617f7d238e67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d22993975b63a6054972617f7d238e67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\f3fea4be525c1cf38dec9034724f7dd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\f3fea4be525c1cf38dec9034724f7dd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\573c069d3a3a957bb668f681b2cbe20e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\573c069d3a3a957bb668f681b2cbe20e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b0f93c9f84506773035e15827ef49c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2b0f93c9f84506773035e15827ef49c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\354301f5bc2733ef9c59998017775472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\354301f5bc2733ef9c59998017775472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce1e84adac3bf6a2458ba7dafdd9822c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ce1e84adac3bf6a2458ba7dafdd9822c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f2b6da5e15180e41af49b496e97cc06b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f2b6da5e15180e41af49b496e97cc06b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\186b2a42997dcea6b4136cec0e5afe5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\186b2a42997dcea6b4136cec0e5afe5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e89b018a2ee391967e79e3b5b31928de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\e89b018a2ee391967e79e3b5b31928de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3cf44dbb4cc20af2c0d714f3db2962d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3cf44dbb4cc20af2c0d714f3db2962d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\419ee5da1de36552d5cc979c95c35aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\419ee5da1de36552d5cc979c95c35aa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\62cb1bab53826532b5c82ab8a3e3cef6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\scott\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\62cb1bab53826532b5c82ab8a3e3cef6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\scott\AndroidStudioProjects\RepeatingAlarm\Application\src\main\AndroidManifest.xml
